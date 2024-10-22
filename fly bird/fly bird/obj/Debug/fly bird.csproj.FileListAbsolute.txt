@@ -1,0 +1,20 @@
+C:\Users\tekin\source\repos\fly bird\fly bird\bin\Debug\fly bird.exe.config
+C:\Users\tekin\source\repos\fly bird\fly bird\bin\Debug\fly bird.exe
+C:\Users\tekin\source\repos\fly bird\fly bird\bin\Debug\fly bird.pdb
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly bird.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly_bird.Form1.resources
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly_bird.Properties.Resources.resources
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly bird.csproj.GenerateResource.cache
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly bird.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly bird.exe
+C:\Users\tekin\source\repos\fly bird\fly bird\obj\Debug\fly bird.pdb
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\bin\Debug\fly bird.exe.config
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\bin\Debug\fly bird.exe
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\bin\Debug\fly bird.pdb
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly bird.csprojAssemblyReference.cache
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly_bird.Form1.resources
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly_bird.Properties.Resources.resources
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly bird.csproj.GenerateResource.cache
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly bird.csproj.CoreCompileInputs.cache
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly bird.exe
+C:\Users\tekin\OneDrive\Masaüstü\Flappy Bird\fly bird\fly bird\obj\Debug\fly bird.pdb
